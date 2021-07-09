@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Her",
+      "release_year": "2013",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Her2013Poster.jpg"
+    },
+    {
+      "title": "Swiss Army Man",
+      "release_year": "2016",
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/72/Swiss_Army_Man_poster.png"
+    },
+    {
+        "title": "The Lobster",
+        "release_year": "2015",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51gKtP8baKL.jpg"
+      },
+      {
+        "title": "Memento",
+        "release_year": "2000",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91jatiUZjtL._AC_SY741_.jpg"
+      },
+      {
+        "title": "Labyrinth",
+        "release_year": "1986",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Labyrinth_ver2.jpg"
+      }
+  ]
